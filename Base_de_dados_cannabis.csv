@@ -1,0 +1,502 @@
+Table name: cs3k_project_info Last updated: Apr 05, 2023 8:37 PM;;;;;;;;;;;;;;;;;;;;;;;;;
+AvgSpotLen;BioSample;DATASTORE_provider;DATASTORE_region;Experiment;InsertSize;LibraryLayout;Library_Name;MBases;MBytes;Run;SRA_Sample;Sample_Name;Assay_Type;BioProject;Center_Name;Consent;DATASTORE_filetype;Instrument;LibrarySelection;LibrarySource;LoadDate;Organism;Platform;ReleaseDate;SRA_Study
+;RSP10411;;;;0;PAIRED;RSP10411;;;RSP10411;RSP10411;818;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10156;;;;0;PAIRED;RSP10156;;;RSP10156;RSP10156;1988 Hash Plant;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10072;;;;0;PAIRED;RSP10072;;;RSP10072;RSP10072;CATATONIC (AC/DC);;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10084;;;;0;PAIRED;RSP10084;;;RSP10084;RSP10084;AC/DC;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10103;;;;0;PAIRED;RSP10103;;;RSP10103;RSP10103;CBDI AC/DC;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10107;;;;0;PAIRED;RSP10107;;;RSP10107;RSP10107;Afghan Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10159;;;;0;PAIRED;RSP10159;;;RSP10159;RSP10159;African Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10559;;;;0;PAIRED;RSP10559;;;RSP10559;RSP10559;Agent Orange;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10605;;;;0;PAIRED;RSP10605;;;RSP10605;RSP10605;Agent Orange;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10120;;;;0;PAIRED;RSP10120;;;RSP10120;RSP10120;AK47;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10523;;;;0;PAIRED;RSP10523;;;RSP10523;RSP10523;ak47;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10299;;;;0;PAIRED;RSP10299;;;RSP10299;RSP10299;Amnesia Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10132;;;;0;PAIRED;RSP10132;;;RSP10132;RSP10132;Arch Angel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10301;;;;0;PAIRED;RSP10301;;;RSP10301;RSP10301;Acrata Trainwreck;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10162;;;;0;PAIRED;RSP10162;;;RSP10162;RSP10162;Banana Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10350;;;;0;PAIRED;RSP10350;;;RSP10350;RSP10350;Banana Split;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10975;;;;0;PAIRED;RSP10975;;;RSP10975;RSP10975;B11;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10590;;;;0;PAIRED;RSP10590;;;RSP10590;RSP10590;Bio Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10697;;;;0;PAIRED;RSP10697;;;RSP10697;RSP10697;Black Beauty;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11035;;;;0;PAIRED;RSP11035;;;RSP11035;RSP11035;Black Beauty;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11036;;;;0;PAIRED;RSP11036;;;RSP11036;RSP11036;Black Beauty;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10603;;;;0;PAIRED;RSP10603;;;RSP10603;RSP10603;Black Jack;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10005;;;;0;PAIRED;RSP10005;;;RSP10005;RSP10005;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10129;;;;0;PAIRED;RSP10129;;;RSP10129;RSP10129;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10195;;;;0;PAIRED;RSP10195;;;RSP10195;RSP10195;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10269;;;;0;PAIRED;RSP10269;;;RSP10269;RSP10269;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10577;;;;0;PAIRED;RSP10577;;;RSP10577;RSP10577;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10578;;;;0;PAIRED;RSP10578;;;RSP10578;RSP10578;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10579;;;;0;PAIRED;RSP10579;;;RSP10579;RSP10579;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10580;;;;0;PAIRED;RSP10580;;;RSP10580;RSP10580;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10581;;;;0;PAIRED;RSP10581;;;RSP10581;RSP10581;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10612;;;;0;PAIRED;RSP10612;;;RSP10612;RSP10612;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10613;;;;0;PAIRED;RSP10613;;;RSP10613;RSP10613;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10614;;;;0;PAIRED;RSP10614;;;RSP10614;RSP10614;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10621;;;;0;PAIRED;RSP10621;;;RSP10621;RSP10621;Blue Dream Trim;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10622;;;;0;PAIRED;RSP10622;;;RSP10622;RSP10622;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10695;;;;0;PAIRED;RSP10695;;;RSP10695;RSP10695;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11004;;;;0;PAIRED;RSP11004;;;RSP11004;RSP11004;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11005;;;;0;PAIRED;RSP11005;;;RSP11005;RSP11005;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11006;;;;0;PAIRED;RSP11006;;;RSP11006;RSP11006;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11007;;;;0;PAIRED;RSP11007;;;RSP11007;RSP11007;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11008;;;;0;PAIRED;RSP11008;;;RSP11008;RSP11008;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11009;;;;0;PAIRED;RSP11009;;;RSP11009;RSP11009;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11010;;;;0;PAIRED;RSP11010;;;RSP11010;RSP11010;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11012;;;;0;PAIRED;RSP11012;;;RSP11012;RSP11012;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11017;;;;0;PAIRED;RSP11017;;;RSP11017;RSP11017;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11032;;;;0;PAIRED;RSP11032;;;RSP11032;RSP11032;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11033;;;;0;PAIRED;RSP11033;;;RSP11033;RSP11033;Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11055;;;;0;PAIRED;RSP11055;;;RSP11055;RSP11055;Blue Dream_23MAR2018;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10201;;;;0;PAIRED;RSP10201;;;RSP10201;RSP10201;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10202;;;;0;PAIRED;RSP10202;;;RSP10202;RSP10202;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10204;;;;0;PAIRED;RSP10204;;;RSP10204;RSP10204;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10205;;;;0;PAIRED;RSP10205;;;RSP10205;RSP10205;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10481;;;;0;PAIRED;RSP10481;;;RSP10481;RSP10481;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10563;;;;0;PAIRED;RSP10563;;;RSP10563;RSP10563;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10564;;;;0;PAIRED;RSP10564;;;RSP10564;RSP10564;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10573;;;;0;PAIRED;RSP10573;;;RSP10573;RSP10573;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10670;;;;0;PAIRED;RSP10670;;;RSP10670;RSP10670;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10671;;;;0;PAIRED;RSP10671;;;RSP10671;RSP10671;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10672;;;;0;PAIRED;RSP10672;;;RSP10672;RSP10672;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10680;;;;0;PAIRED;RSP10680;;;RSP10680;RSP10680;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10682;;;;0;PAIRED;RSP10682;;;RSP10682;RSP10682;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10684;;;;0;PAIRED;RSP10684;;;RSP10684;RSP10684;Blueberry Cheesecake;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10469;;;;0;PAIRED;RSP10469;;;RSP10469;RSP10469;Blueberry Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10149;;;;0;PAIRED;RSP10149;;;RSP10149;RSP10149;Old School Blueberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10597;;;;0;PAIRED;RSP10597;;;RSP10597;RSP10597;Blueberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10601;;;;0;PAIRED;RSP10601;;;RSP10601;RSP10601;Boss Hog;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10164;;;;0;PAIRED;RSP10164;;;RSP10164;RSP10164;Bubba Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10088;;;;0;PAIRED;RSP10088;;;RSP10088;RSP10088;Bubblegummer;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10265;;;;0;PAIRED;RSP10265;;;RSP10265;RSP10265;Buddha's Sister;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10382;;;;0;PAIRED;RSP10382;;;RSP10382;RSP10382;C4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10971;;;;0;PAIRED;RSP10971;;;RSP10971;RSP10971;C4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10428;;;;0;PAIRED;RSP10428;;;RSP10428;RSP10428;Candyland;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10158;;;;0;PAIRED;RSP10158;;;RSP10158;RSP10158;Cannatsu;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10391;;;;0;PAIRED;RSP10391;;;RSP10391;RSP10391;Canna-tsu;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10082;;;;0;PAIRED;RSP10082;;;RSP10082;RSP10082;CANNATONIC;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10606;;;;0;PAIRED;RSP10606;;;RSP10606;RSP10606;Casey Jones;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10090;;;;0;PAIRED;RSP10090;;;RSP10090;RSP10090;CBD Mango Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10013;;;;0;PAIRED;RSP10013;;;RSP10013;RSP10013;Cheddar Head;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10459;;;;0;PAIRED;RSP10459;;;RSP10459;RSP10459;Cheese;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10460;;;;0;PAIRED;RSP10460;;;RSP10460;RSP10460;Cheese;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10545;;;;0;PAIRED;RSP10545;;;RSP10545;RSP10545;Chem 91;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10192;;;;0;PAIRED;RSP10192;;;RSP10192;RSP10192;Chem Dawg;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10387;;;;0;PAIRED;RSP10387;;;RSP10387;RSP10387;ChemDog;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10245;;;;0;PAIRED;RSP10245;;;RSP10245;RSP10245;Chem #4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10131;;;;0;PAIRED;RSP10131;;;RSP10131;RSP10131;Chemmy Jones;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10524;;;;0;PAIRED;RSP10524;;;RSP10524;RSP10524;Chemodo Dragon;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10177;;;;0;PAIRED;RSP10177;;;RSP10177;RSP10177;Chernobyl;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10609;;;;0;PAIRED;RSP10609;;;RSP10609;RSP10609;Cherry Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10170;;;;0;PAIRED;RSP10170;;;RSP10170;RSP10170;Cherry Limeade;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10183;;;;0;PAIRED;RSP10183;;;RSP10183;RSP10183;Chiesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10016;;;;0;PAIRED;RSP10016;;;RSP10016;RSP10016;Chocolope;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10388;;;;0;PAIRED;RSP10388;;;RSP10388;RSP10388;Cinex;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10432;;;;0;PAIRED;RSP10432;;;RSP10432;RSP10432;Congo;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10135;;;;0;PAIRED;RSP10135;;;RSP10135;RSP10135;Corleone Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10012;;;;0;PAIRED;RSP10012;;;RSP10012;RSP10012;CRITICAL MASS CBD;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10167;;;;0;PAIRED;RSP10167;;;RSP10167;RSP10167;Critical Mass;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10542;;;;0;PAIRED;RSP10542;;;RSP10542;RSP10542;Crocketts Haze #22;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10130;;;;0;PAIRED;RSP10130;;;RSP10130;RSP10130;Death Star;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10624;;;;0;PAIRED;RSP10624;;;RSP10624;RSP10624;Divided Sky;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10366;;;;0;PAIRED;RSP10366;;;RSP10366;RSP10366;Doubl Tangie Banana;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10371;;;;0;PAIRED;RSP10371;;;RSP10371;RSP10371;Doubl Tangie Banana;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10066;;;;0;PAIRED;RSP10066;;;RSP10066;RSP10066;Dr. Who;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10094;;;;0;PAIRED;RSP10094;;;RSP10094;RSP10094;Dream Beaver;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10133;;;;0;PAIRED;RSP10133;;;RSP10133;RSP10133;Durban;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10150;;;;0;PAIRED;RSP10150;;;RSP10150;RSP10150;Durban Poison;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10948;;;;0;PAIRED;RSP10948;;;RSP10948;RSP10948;Durban Poison;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10998;;;;0;PAIRED;RSP10998;;;RSP10998;RSP10998;Durban Poison;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11014;;;;0;PAIRED;RSP11014;;;RSP11014;RSP11014;Durban Poison;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10943;;;;0;PAIRED;RSP10943;;;RSP10943;RSP10943;Durban Poison #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10996;;;;0;PAIRED;RSP10996;;;RSP10996;RSP10996;Durban Poison #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11013;;;;0;PAIRED;RSP11013;;;RSP11013;RSP11013;Durban Poison #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10243;;;;0;PAIRED;RSP10243;;;RSP10243;RSP10243;East Coast Sour Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10136;;;;0;PAIRED;RSP10136;;;RSP10136;RSP10136;El Diablo;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10146;;;;0;PAIRED;RSP10146;;;RSP10146;RSP10146;Face Off OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10062;;;;0;PAIRED;RSP10062;;;RSP10062;RSP10062;Fedora17;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10661;;;;0;PAIRED;RSP10661;;;RSP10661;RSP10661;Fedora 17;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10049;;;;0;PAIRED;RSP10049;;;RSP10049;RSP10049;Felina32;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10232;;;;0;PAIRED;RSP10232;;;RSP10232;RSP10232;Felina32;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10057;;;;0;PAIRED;RSP10057;;;RSP10057;RSP10057;Futura75;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10234;;;;0;PAIRED;RSP10234;;;RSP10234;RSP10234;Futura75;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10664;;;;0;PAIRED;RSP10664;;;RSP10664;RSP10664;Futura 75;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10091;;;;0;PAIRED;RSP10091;;;RSP10091;RSP10091;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10124;;;;0;PAIRED;RSP10124;;;RSP10124;RSP10124;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10141;;;;0;PAIRED;RSP10141;;;RSP10141;RSP10141;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10246;;;;0;PAIRED;RSP10246;;;RSP10246;RSP10246;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10413;;;;0;PAIRED;RSP10413;;;RSP10413;RSP10413;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10435;;;;0;PAIRED;RSP10435;;;RSP10435;RSP10435;Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10703;;;;0;PAIRED;RSP10703;;;RSP10703;RSP10703;Glueberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10945;;;;0;PAIRED;RSP10945;;;RSP10945;RSP10945;Golden Goat 2;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10991;;;;0;PAIRED;RSP10991;;;RSP10991;RSP10991;Golden Goat 2;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10069;;;;0;PAIRED;RSP10069;;;RSP10069;RSP10069;Green Crack;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10166;;;;0;PAIRED;RSP10166;;;RSP10166;RSP10166;Green Crack;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10520;;;;0;PAIRED;RSP10520;;;RSP10520;RSP10520;Gupta Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10518;;;;0;PAIRED;RSP10518;;;RSP10518;RSP10518;Guptilla;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10098;;;;0;PAIRED;RSP10098;;;RSP10098;RSP10098;HARLE TSU;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10099;;;;0;PAIRED;RSP10099;;;RSP10099;RSP10099;HARLEQUIN TSUNAMI;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10101;;;;0;PAIRED;RSP10101;;;RSP10101;RSP10101;HARLE-TSU;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10155;;;;0;PAIRED;RSP10155;;;RSP10155;RSP10155;Hash Plant Puck;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10525;;;;0;PAIRED;RSP10525;;;RSP10525;RSP10525;Hawaiian Sunrise;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10118;;;;0;PAIRED;RSP10118;;;RSP10118;RSP10118;Headcheese;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10297;;;;0;PAIRED;RSP10297;;;RSP10297;RSP10297;Headcheese;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10154;;;;0;PAIRED;RSP10154;;;RSP10154;RSP10154;Headband;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10600;;;;0;PAIRED;RSP10600;;;RSP10600;RSP10600;Sour Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10377;;;;0;PAIRED;RSP10377;;;RSP10377;RSP10377;Hell's Fire;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10172;;;;0;PAIRED;RSP10172;;;RSP10172;RSP10172;In the Pines;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10011;;;;0;PAIRED;RSP10011;;;RSP10011;RSP10011;INCREDIBLE POWER;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10693;;;;0;PAIRED;RSP10693;;;RSP10693;RSP10693;Jamaican Lion;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10694;;;;0;PAIRED;RSP10694;;;RSP10694;RSP10694;Jamaican Lion;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10608;;;;0;PAIRED;RSP10608;;;RSP10608;RSP10608;Killawatt;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10949;;;;0;PAIRED;RSP10949;;;RSP10949;RSP10949;Kimbo Slice;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10997;;;;0;PAIRED;RSP10997;;;RSP10997;RSP10997;Kimbo Slice;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10161;;;;0;PAIRED;RSP10161;;;RSP10161;RSP10161;Kong;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10287;;;;0;PAIRED;RSP10287;;;RSP10287;RSP10287;24 Gold;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10519;;;;0;PAIRED;RSP10519;;;RSP10519;RSP10519;Krishna Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11057;;;;0;PAIRED;RSP11057;;;RSP11057;RSP11057;LA Confidential_23MAR2018;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10138;;;;0;PAIRED;RSP10138;;;RSP10138;RSP10138;Lambs Bread;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10470;;;;0;PAIRED;RSP10470;;;RSP10470;RSP10470;Lemon Meringue OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10193;;;;0;PAIRED;RSP10193;;;RSP10193;RSP10193;Lemon Skunk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11058;;;;0;PAIRED;RSP11058;;;RSP11058;RSP11058;Lemon Skunk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10946;;;;0;PAIRED;RSP10946;;;RSP10946;RSP10946;Liberty Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11000;;;;0;PAIRED;RSP11000;;;RSP11000;RSP11000;Liberty Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10092;;;;0;PAIRED;RSP10092;;;RSP10092;RSP10092;Lucky Charms;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10251;;;;0;PAIRED;RSP10251;;;RSP10251;RSP10251;Maui Waui;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10067;;;;0;PAIRED;RSP10067;;;RSP10067;RSP10067;Moonshine Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10546;;;;0;PAIRED;RSP10546;;;RSP10546;RSP10546;Mothers Milk #5;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10598;;;;0;PAIRED;RSP10598;;;RSP10598;RSP10598;Mothers Milk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10610;;;;0;PAIRED;RSP10610;;;RSP10610;RSP10610;Golden Ticket;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10478;;;;0;PAIRED;RSP10478;;;RSP10478;RSP10478;Ninja Fruit;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10026;;;;0;PAIRED;RSP10026;;;RSP10026;RSP10026;Northern Lights;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10070;;;;0;PAIRED;RSP10070;;;RSP10070;RSP10070;OG Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10500;;;;0;PAIRED;RSP10500;;;RSP10500;RSP10500;OG Kush CBD_21NOV2016;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10471;;;;0;PAIRED;RSP10471;;;RSP10471;RSP10471;Gorilla Glue #4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10591;;;;0;PAIRED;RSP10591;;;RSP10591;RSP10591;Outer Space;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10200;;;;0;PAIRED;RSP10200;;;RSP10200;RSP10200;Purple Buddha;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10123;;;;0;PAIRED;RSP10123;;;RSP10123;RSP10123;Pineberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10108;;;;0;PAIRED;RSP10108;;;RSP10108;RSP10108;Recon;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10755;;;;0;PAIRED;RSP10755;;;RSP10755;RSP10755;Recon;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10089;;;;0;PAIRED;RSP10089;;;RSP10089;RSP10089;Sage N Sour;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10056;;;;0;PAIRED;RSP10056;;;RSP10056;RSP10056;Santhica27;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10665;;;;0;PAIRED;RSP10665;;;RSP10665;RSP10665;Santhica 27;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11046;;;;0;PAIRED;RSP11046;;;RSP11046;RSP11046;Santhica27;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11047;;;;0;PAIRED;RSP11047;;;RSP11047;RSP11047;Santhica27;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10407;;;;0;PAIRED;RSP10407;;;RSP10407;RSP10407;Sensi Star;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10121;;;;0;PAIRED;RSP10121;;;RSP10121;RSP10121;Serious Happiness;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10763;;;;0;PAIRED;RSP10763;;;RSP10763;RSP10763;Serious Happiness;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10219;;;;0;PAIRED;RSP10219;;;RSP10219;RSP10219;Super Silver White Widow;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10477;;;;0;PAIRED;RSP10477;;;RSP10477;RSP10477;Skywalker OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10837;;;;0;PAIRED;RSP10837;;;RSP10837;RSP10837;Skywalker OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10142;;;;0;PAIRED;RSP10142;;;RSP10142;RSP10142;Snowcap;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10194;;;;0;PAIRED;RSP10194;;;RSP10194;RSP10194;Snowcap;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10182;;;;0;PAIRED;RSP10182;;;RSP10182;RSP10182;Sour Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10551;;;;0;PAIRED;RSP10551;;;RSP10551;RSP10551;Sour Raspberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10384;;;;0;PAIRED;RSP10384;;;RSP10384;RSP10384;Sour Tsunami;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10595;;;;0;PAIRED;RSP10595;;;RSP10595;RSP10595;Sour Tsunami;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10607;;;;0;PAIRED;RSP10607;;;RSP10607;RSP10607;Sour Tsunami;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10128;;;;0;PAIRED;RSP10128;;;RSP10128;RSP10128;Space Queen;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10679;;;;0;PAIRED;RSP10679;;;RSP10679;RSP10679;Strawberry Cough;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10681;;;;0;PAIRED;RSP10681;;;RSP10681;RSP10681;Strawberry Cough;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10962;;;;0;PAIRED;RSP10962;;;RSP10962;RSP10962;Sugar Black Rose;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11071;;;;0;PAIRED;RSP11071;;;RSP11071;RSP11071;Sunday Driver;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11011;;;;0;PAIRED;RSP11011;;;RSP11011;RSP11011;Super Blue Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10433;;;;0;PAIRED;RSP10433;;;RSP10433;RSP10433;Superbud Autoflower;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10586;;;;0;PAIRED;RSP10586;;;RSP10586;RSP10586;Super Jack;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10139;;;;0;PAIRED;RSP10139;;;RSP10139;RSP10139;Super Lemon Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10475;;;;0;PAIRED;RSP10475;;;RSP10475;RSP10475;Sweet Tart;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10944;;;;0;PAIRED;RSP10944;;;RSP10944;RSP10944;Tangerine Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10995;;;;0;PAIRED;RSP10995;;;RSP10995;RSP10995;Tangerine Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10244;;;;0;PAIRED;RSP10244;;;RSP10244;RSP10244;Tangerine;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10191;;;;0;PAIRED;RSP10191;;;RSP10191;RSP10191;Tangie;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10349;;;;0;PAIRED;RSP10349;;;RSP10349;RSP10349;Tangie;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10283;;;;0;PAIRED;RSP10283;;;RSP10283;RSP10283;Tangilope;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10267;;;;0;PAIRED;RSP10267;;;RSP10267;RSP10267;White 99;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10068;;;;0;PAIRED;RSP10068;;;RSP10068;RSP10068;Trainwreck;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11062;;;;0;PAIRED;RSP11062;;;RSP11062;RSP11062;trainwreck;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10157;;;;0;PAIRED;RSP10157;;;RSP10157;RSP10157;Triangle OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10074;;;;0;PAIRED;RSP10074;;;RSP10074;RSP10074;TRIDENT;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10430;;;;0;PAIRED;RSP10430;;;RSP10430;RSP10430;Wappa;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10143;;;;0;PAIRED;RSP10143;;;RSP10143;RSP10143;White Fire;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10431;;;;0;PAIRED;RSP10431;;;RSP10431;RSP10431;White Lemon;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10175;;;;0;PAIRED;RSP10175;;;RSP10175;RSP10175;White Russian;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10561;;;;0;PAIRED;RSP10561;;;RSP10561;RSP10561;White Widow;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10447;;;;0;PAIRED;RSP10447;;;RSP10447;RSP10447;Wife;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10165;;;;0;PAIRED;RSP10165;;;RSP10165;RSP10165;Witches Weed;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10474;;;;0;PAIRED;RSP10474;;;RSP10474;RSP10474;XJ 13;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10076;;;;0;PAIRED;RSP10076;;;RSP10076;RSP10076;HARLEQUIN CBD;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10140;;;;0;PAIRED;RSP10140;;;RSP10140;RSP10140;Harlequin;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10587;;;;0;PAIRED;RSP10587;;;RSP10587;RSP10587;Jack Herrer;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10028;;;;0;PAIRED;RSP10028;;;RSP10028;RSP10028;NYC Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10599;;;;0;PAIRED;RSP10599;;;RSP10599;RSP10599;New York Sour Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11060;;;;0;PAIRED;RSP11060;;;RSP11060;RSP11060;P. Chunk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10429;;;;0;PAIRED;RSP10429;;;RSP10429;RSP10429;Pineapple Express;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10588;;;;0;PAIRED;RSP10588;;;RSP10588;RSP10588;Strawberry Lemonade;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10137;;;;0;PAIRED;RSP10137;;;RSP10137;RSP10137;Sugar Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10393;;;;0;PAIRED;RSP10393;;;RSP10393;RSP10393;Tahoe OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10385;;;;0;PAIRED;RSP10385;;;RSP10385;RSP10385;Black 84;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10386;;;;0;PAIRED;RSP10386;;;RSP10386;RSP10386;Blue Essence;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11073;;;;0;PAIRED;RSP11073;;;RSP11073;RSP11073;Pie Hoe;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10126;;;;0;PAIRED;RSP10126;;;RSP10126;RSP10126;Otto;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10701;;;;0;PAIRED;RSP10701;;;RSP10701;RSP10701;Orangutan;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10963;;;;0;PAIRED;RSP10963;;;RSP10963;RSP10963;Purple Cactus #4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10176;;;;0;PAIRED;RSP10176;;;RSP10176;RSP10176;Purple Candy Cane;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10180;;;;0;PAIRED;RSP10180;;;RSP10180;RSP10180;Lemonhead OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10260;;;;0;PAIRED;RSP10260;;;RSP10260;RSP10260;Lemonhead OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10988;;;;0;PAIRED;RSP10988;;;RSP10988;RSP10988;The Gift;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10426;;;;0;PAIRED;RSP10426;;;RSP10426;RSP10426;BGKC #4-1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10427;;;;0;PAIRED;RSP10427;;;RSP10427;RSP10427;BGKC-45;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10079;;;;0;PAIRED;RSP10079;;;RSP10079;RSP10079;BHUTAN;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10002;;;;0;PAIRED;RSP10002;;;RSP10002;RSP10002;Bialobreski;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10421;;;;0;PAIRED;RSP10421;;;RSP10421;RSP10421;Brain Wreck;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10096;;;;0;PAIRED;RSP10096;;;RSP10096;RSP10096;Breakthrough;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10181;;;;0;PAIRED;RSP10181;;;RSP10181;RSP10181;Butter OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10134;;;;0;PAIRED;RSP10134;;;RSP10134;RSP10134;Charlie Murphy;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10445;;;;0;PAIRED;RSP10445;;;RSP10445;RSP10445;Cherry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10196;;;;0;PAIRED;RSP10196;;;RSP10196;RSP10196;Cherry Durban Poison;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11056;;;;0;PAIRED;RSP11056;;;RSP11056;RSP11056;Choc;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10151;;;;0;PAIRED;RSP10151;;;RSP10151;RSP10151;Citrisoul;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10292;;;;0;PAIRED;RSP10292;;;RSP10292;RSP10292;Citrus Sap;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10543;;;;0;PAIRED;RSP10543;;;RSP10543;RSP10543;Clementine #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10242;;;;0;PAIRED;RSP10242;;;RSP10242;RSP10242;Crystal Chunk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10058;;;;0;PAIRED;RSP10058;;;RSP10058;RSP10058;Dacia;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10238;;;;0;PAIRED;RSP10238;;;RSP10238;RSP10238;Dacia;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11070;;;;0;PAIRED;RSP11070;;;RSP11070;RSP11070;Danny Noonan;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10960;;;;0;PAIRED;RSP10960;;;RSP10960;RSP10960;Dark Knight #3;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10053;;;;0;PAIRED;RSP10053;;;RSP10053;RSP10053;Diana;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10235;;;;0;PAIRED;RSP10235;;;RSP10235;RSP10235;Diana;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10582;;;;0;PAIRED;RSP10582;;;RSP10582;RSP10582;Dirks OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10197;;;;0;PAIRED;RSP10197;;;RSP10197;RSP10197;Dutch Treat Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10080;;;;0;PAIRED;RSP10080;;;RSP10080;RSP10080;F-CANCER;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10063;;;;0;PAIRED;RSP10063;;;RSP10063;RSP10063;Ferimon;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10298;;;;0;PAIRED;RSP10298;;;RSP10298;RSP10298;Fire Angel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10611;;;;0;PAIRED;RSP10611;;;RSP10611;RSP10611;Fire Angel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10592;;;;0;PAIRED;RSP10592;;;RSP10592;RSP10592;Glue on Fire #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11041;;;;0;PAIRED;RSP11041;;;RSP11041;RSP11041;Gold Cracker;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11048;;;;0;PAIRED;RSP11048;;;RSP11048;RSP11048;Gold Cracker;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP21041;;;;0;PAIRED;RSP21041;;;RSP21041;RSP21041;Gold Cracker;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10083;;;;0;PAIRED;RSP10083;;;RSP10083;RSP10083;GUERILLA MEDS;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10560;;;;0;PAIRED;RSP10560;;;RSP10560;RSP10560;Harlow;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10010;;;;0;PAIRED;RSP10010;;;RSP10010;RSP10010;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10237;;;;0;PAIRED;RSP10237;;;RSP10237;RSP10237;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10655;;;;0;PAIRED;RSP10655;;;RSP10655;RSP10655;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10858;;;;0;PAIRED;RSP10858;;;RSP10858;RSP10858;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10859;;;;0;PAIRED;RSP10859;;;RSP10859;RSP10859;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10860;;;;0;PAIRED;RSP10860;;;RSP10860;RSP10860;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10861;;;;0;PAIRED;RSP10861;;;RSP10861;RSP10861;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10862;;;;0;PAIRED;RSP10862;;;RSP10862;RSP10862;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10863;;;;0;PAIRED;RSP10863;;;RSP10863;RSP10863;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10976;;;;0;PAIRED;RSP10976;;;RSP10976;RSP10976;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10977;;;;0;PAIRED;RSP10977;;;RSP10977;RSP10977;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10978;;;;0;PAIRED;RSP10978;;;RSP10978;RSP10978;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10979;;;;0;PAIRED;RSP10979;;;RSP10979;RSP10979;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10980;;;;0;PAIRED;RSP10980;;;RSP10980;RSP10980;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10982;;;;0;PAIRED;RSP10982;;;RSP10982;RSP10982;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11037;;;;0;PAIRED;RSP11037;;;RSP11037;RSP11037;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11039;;;;0;PAIRED;RSP11039;;;RSP11039;RSP11039;Carmagnola;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11128;;;;0;PAIRED;RSP11128;;;RSP11128;RSP11128;Kush Hemp E1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10990;;;;0;PAIRED;RSP10990;;;RSP10990;RSP10990;Italian Kiss;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11034;;;;0;PAIRED;RSP11034;;;RSP11034;RSP11034;Italian Kiss;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10065;;;;0;PAIRED;RSP10065;;;RSP10065;RSP10065;Ivory;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10668;;;;0;PAIRED;RSP10668;;;RSP10668;RSP10668;Ivory;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10147;;;;0;PAIRED;RSP10147;;;RSP10147;RSP10147;Jesus;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10046;;;;0;PAIRED;RSP10046;;;RSP10046;RSP10046;Jiangji;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10236;;;;0;PAIRED;RSP10236;;;RSP10236;RSP10236;Jiangji;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10653;;;;0;PAIRED;RSP10653;;;RSP10653;RSP10653;Jiangji;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11075;;;;0;PAIRED;RSP11075;;;RSP11075;RSP11075;JL yellow;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11076;;;;0;PAIRED;RSP11076;;;RSP11076;RSP11076;JL#2;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10547;;;;0;PAIRED;RSP10547;;;RSP10547;RSP10547;Juneau's Gift;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10392;;;;0;PAIRED;RSP10392;;;RSP10392;RSP10392;Kush-It;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10412;;;;0;PAIRED;RSP10412;;;RSP10412;RSP10412;Kush-It;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10247;;;;0;PAIRED;RSP10247;;;RSP10247;RSP10247;L'Eagle Eagle;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10268;;;;0;PAIRED;RSP10268;;;RSP10268;RSP10268;Lavender Diesel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10434;;;;0;PAIRED;RSP10434;;;RSP10434;RSP10434;Lil Sebastian;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10168;;;;0;PAIRED;RSP10168;;;RSP10168;RSP10168;Loopy Fruit;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10071;;;;0;PAIRED;RSP10071;;;RSP10071;RSP10071;LOVE 'N HOPE;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10059;;;;0;PAIRED;RSP10059;;;RSP10059;RSP10059;Lovrin;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10239;;;;0;PAIRED;RSP10239;;;RSP10239;RSP10239;Lovrin;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10658;;;;0;PAIRED;RSP10658;;;RSP10658;RSP10658;Lovrin;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10178;;;;0;PAIRED;RSP10178;;;RSP10178;RSP10178;Mang Thai Doo;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10479;;;;0;PAIRED;RSP10479;;;RSP10479;RSP10479;Master Banana Pheno 8;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10480;;;;0;PAIRED;RSP10480;;;RSP10480;RSP10480;Master Banana Pheno 7;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10959;;;;0;PAIRED;RSP10959;;;RSP10959;RSP10959;McGrupp #6;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11059;;;;0;PAIRED;RSP11059;;;RSP11059;RSP11059;Medi;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10051;;;;0;PAIRED;RSP10051;;;RSP10051;RSP10051;Mengma;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10947;;;;0;PAIRED;RSP10947;;;RSP10947;RSP10947;Miss X;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10061;;;;0;PAIRED;RSP10061;;;RSP10061;RSP10061;Monoica;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10241;;;;0;PAIRED;RSP10241;;;RSP10241;RSP10241;Monoica;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10964;;;;0;PAIRED;RSP10964;;;RSP10964;RSP10964;Mount Jones #5;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10961;;;;0;PAIRED;RSP10961;;;RSP10961;RSP10961;Orange Zeta;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10848;;;;0;PAIRED;RSP10848;;;RSP10848;RSP10848;Plum Crazy;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10585;;;;0;PAIRED;RSP10585;;;RSP10585;RSP10585;Primus OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10596;;;;0;PAIRED;RSP10596;;;RSP10596;RSP10596;Primus OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10105;;;;0;PAIRED;RSP10105;;;RSP10105;RSP10105;Queen Jesus;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10589;;;;0;PAIRED;RSP10589;;;RSP10589;RSP10589;Red Eye OG;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10085;;;;0;PAIRED;RSP10085;;;RSP10085;RSP10085;Ringo's Angel;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10210;;;;0;PAIRED;RSP10210;;;RSP10210;RSP10210;Saint Jack;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10104;;;;0;PAIRED;RSP10104;;;RSP10104;RSP10104;SIERRA GOLD;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11030;;;;0;PAIRED;RSP11030;;;RSP11030;RSP11030;Skunk#18;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11038;;;;0;PAIRED;RSP11038;;;RSP11038;RSP11038;Skunk#18;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10584;;;;0;PAIRED;RSP10584;;;RSP10584;RSP10584;Snoop Master;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10117;;;;0;PAIRED;RSP10117;;;RSP10117;RSP10117;Snoops Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11003;;;;0;PAIRED;RSP11003;;;RSP11003;RSP11003;Snoops Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11031;;;;0;PAIRED;RSP11031;;;RSP11031;RSP11031;Snoops Dream;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10544;;;;0;PAIRED;RSP10544;;;RSP10544;RSP10544;Snow Temple;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10420;;;;0;PAIRED;RSP10420;;;RSP10420;RSP10420;Sweet Purple X Purple Erkel X Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11061;;;;0;PAIRED;RSP11061;;;RSP11061;RSP11061;SWK;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10174;;;;0;PAIRED;RSP10174;;;RSP10174;RSP10174;The Bomb;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10060;;;;0;PAIRED;RSP10060;;;RSP10060;RSP10060;Tisza;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10240;;;;0;PAIRED;RSP10240;;;RSP10240;RSP10240;Tisza;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10659;;;;0;PAIRED;RSP10659;;;RSP10659;RSP10659;Tisza;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11044;;;;0;PAIRED;RSP11044;;;RSP11044;RSP11044;Tisza;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11045;;;;0;PAIRED;RSP11045;;;RSP11045;RSP11045;Tisza;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10064;;;;0;PAIRED;RSP10064;;;RSP10064;RSP10064;Tygra;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10623;;;;0;PAIRED;RSP10623;;;RSP10623;RSP10623;Tygra;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10667;;;;0;PAIRED;RSP10667;;;RSP10667;RSP10667;Tygra;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10081;;;;0;PAIRED;RSP10081;;;RSP10081;RSP10081;UNITY;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10989;;;;0;PAIRED;RSP10989;;;RSP10989;RSP10989;UP Sunrise;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10078;;;;0;PAIRED;RSP10078;;;RSP10078;RSP10078;VITAMIN CBD;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10075;;;;0;PAIRED;RSP10075;;;RSP10075;RSP10075;PINEAPPLE TSU;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10077;;;;0;PAIRED;RSP10077;;;RSP10077;RSP10077;PINEAPPLE TSU;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10406;;;;0;PAIRED;RSP10406;;;RSP10406;RSP10406;Mendo Breath;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10416;;;;0;PAIRED;RSP10416;;;RSP10416;RSP10416;Mendo Breath;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10604;;;;0;PAIRED;RSP10604;;;RSP10604;RSP10604;Ghost Train Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10248;;;;0;PAIRED;RSP10248;;;RSP10248;RSP10248;Grape Ape;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10250;;;;0;PAIRED;RSP10250;;;RSP10250;RSP10250;Grape Ape;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10003;;;;0;PAIRED;RSP10003;;;RSP10003;RSP10003;Blazin Grapefruit;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10405;;;;0;PAIRED;RSP10405;;;RSP10405;RSP10405;C4 X Blue Dream X Hardy;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10383;;;;0;PAIRED;RSP10383;;;RSP10383;RSP10383;C4 x Canna-Tsu;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10358;;;;0;PAIRED;RSP10358;;;RSP10358;RSP10358;CBD Strain;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11129;;;;0;PAIRED;RSP11129;;;RSP11129;RSP11129;Cbot-2019-001;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11130;;;;0;PAIRED;RSP11130;;;RSP11130;RSP11130;Cbot-2019-002;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11131;;;;0;PAIRED;RSP11131;;;RSP11131;RSP11131;Cbot-2019-003;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11132;;;;0;PAIRED;RSP11132;;;RSP11132;RSP11132;Cbot-2019-004;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11133;;;;0;PAIRED;RSP11133;;;RSP11133;RSP11133;Cbot-2019-005;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11134;;;;0;PAIRED;RSP11134;;;RSP11134;RSP11134;Cbot-2019-006;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10225;;;;0;PAIRED;RSP10225;;;RSP10225;RSP10225;Chocoloupe x Super Silver Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10337;;;;0;PAIRED;RSP10337;;;RSP10337;RSP10337;Clifford;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10483;;;;0;PAIRED;RSP10483;;;RSP10483;RSP10483;E005A.MMPR00.01;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10482;;;;0;PAIRED;RSP10482;;;RSP10482;RSP10482;E005A.MMSG00.01;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10890;;;;0;PAIRED;RSP10890;;;RSP10890;RSP10890;Feral;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10891;;;;0;PAIRED;RSP10891;;;RSP10891;RSP10891;Feral;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10892;;;;0;PAIRED;RSP10892;;;RSP10892;RSP10892;Feral;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10397;;;;0;PAIRED;RSP10397;;;RSP10397;RSP10397;G4X San Fernando Monster;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10145;;;;0;PAIRED;RSP10145;;;RSP10145;RSP10145;GFU x Mr. Nice;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10148;;;;0;PAIRED;RSP10148;;;RSP10148;RSP10148;Ghost Train Haze x Snow Dog;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10125;;;;0;PAIRED;RSP10125;;;RSP10125;RSP10125;Girl Scout Cookies x AK47;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11042;;;;0;PAIRED;RSP11042;;;RSP11042;RSP11042;Hermaphrodite_Research_Sample1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11049;;;;0;PAIRED;RSP11049;;;RSP11049;RSP11049;Hermaphrodite_Research_Sample1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11043;;;;0;PAIRED;RSP11043;;;RSP11043;RSP11043;Hermaphrodite_ResearchSample2;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11050;;;;0;PAIRED;RSP11050;;;RSP11050;RSP11050;Hermaphrodite_ResearchSample2;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10593;;;;0;PAIRED;RSP10593;;;RSP10593;RSP10593;Kona Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11051;;;;0;PAIRED;RSP11051;;;RSP11051;RSP11051;KYRG-11;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11052;;;;0;PAIRED;RSP11052;;;RSP11052;RSP11052;KYRG-151;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11053;;;;0;PAIRED;RSP11053;;;RSP11053;RSP11053;KYRG-21;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11054;;;;0;PAIRED;RSP11054;;;RSP11054;RSP11054;Kyrgyz Gold;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10152;;;;0;PAIRED;RSP10152;;;RSP10152;RSP10152;Land Race Jamaican #1;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10207;;;;0;PAIRED;RSP10207;;;RSP10207;RSP10207;Miche Nepal;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10394;;;;0;PAIRED;RSP10394;;;RSP10394;RSP10394;OG Kush X Bubba Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10410;;;;0;PAIRED;RSP10410;;;RSP10410;RSP10410;OG Kush X Meadband X Master Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10398;;;;0;PAIRED;RSP10398;;;RSP10398;RSP10398;OG Kush X Pure Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10399;;;;0;PAIRED;RSP10399;;;RSP10399;RSP10399;OG Kush X Purple Bubblegum X C4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10400;;;;0;PAIRED;RSP10400;;;RSP10400;RSP10400;OG Kush X San Fernando Monster;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10401;;;;0;PAIRED;RSP10401;;;RSP10401;RSP10401;OG Kush X Super Silver Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10402;;;;0;PAIRED;RSP10402;;;RSP10402;RSP10402;Pure Kush X 808 OG Kush;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10414;;;;0;PAIRED;RSP10414;;;RSP10414;RSP10414;Purple Erkel X Girl Scout Cookies;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10409;;;;0;PAIRED;RSP10409;;;RSP10409;RSP10409;Purple Kush X Super Silver Haze;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10552;;;;0;PAIRED;RSP10552;;;RSP10552;RSP10552;RD-1907-SLP_06JAN2017;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11092;;;;0;PAIRED;RSP11092;;;RSP11092;RSP11092;RKM-2018-001;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11093;;;;0;PAIRED;RSP11093;;;RSP11093;RSP11093;RKM-2018-002;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11094;;;;0;PAIRED;RSP11094;;;RSP11094;RSP11094;RKM-2018-003;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11095;;;;0;PAIRED;RSP11095;;;RSP11095;RSP11095;RKM-2018-004;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11096;;;;0;PAIRED;RSP11096;;;RSP11096;RSP11096;RKM-2018-004;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11097;;;;0;PAIRED;RSP11097;;;RSP11097;RSP11097;RKM-2018-006;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11098;;;;0;PAIRED;RSP11098;;;RSP11098;RSP11098;RKM-2018-007;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11099;;;;0;PAIRED;RSP11099;;;RSP11099;RSP11099;RKM-2018-008;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11100;;;;0;PAIRED;RSP11100;;;RSP11100;RSP11100;RKM-2018-009;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11101;;;;0;PAIRED;RSP11101;;;RSP11101;RSP11101;RKM-2018-010;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11102;;;;0;PAIRED;RSP11102;;;RSP11102;RSP11102;RKM-2018-011;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11103;;;;0;PAIRED;RSP11103;;;RSP11103;RSP11103;RKM-2018-012;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11104;;;;0;PAIRED;RSP11104;;;RSP11104;RSP11104;RKM-2018-013;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11106;;;;0;PAIRED;RSP11106;;;RSP11106;RSP11106;RKM-2018-014;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11107;;;;0;PAIRED;RSP11107;;;RSP11107;RSP11107;RKM-2018-015;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11108;;;;0;PAIRED;RSP11108;;;RSP11108;RSP11108;RKM-2018-016;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11109;;;;0;PAIRED;RSP11109;;;RSP11109;RSP11109;RKM-2018-017;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11110;;;;0;PAIRED;RSP11110;;;RSP11110;RSP11110;RKM-2018-018;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11120;;;;0;PAIRED;RSP11120;;;RSP11120;RSP11120;RKM-2018-028;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11072;;;;0;PAIRED;RSP11072;;;RSP11072;RSP11072;SFVxTK;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10300;;;;0;PAIRED;RSP10300;;;RSP10300;RSP10300;Sleestack x Skunk;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10419;;;;0;PAIRED;RSP10419;;;RSP10419;RSP10419;Sour Diesel  X Unknown;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10403;;;;0;PAIRED;RSP10403;;;RSP10403;RSP10403;Sour Diesel X Unknown;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10215;;;;0;PAIRED;RSP10215;;;RSP10215;RSP10215;Sour Tsunami x Cataract Ku;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10418;;;;0;PAIRED;RSP10418;;;RSP10418;RSP10418;Special K X Chronic Kushberry;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10422;;;;0;PAIRED;RSP10422;;;RSP10422;RSP10422;Super Silver White Widow X C4;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10395;;;;0;PAIRED;RSP10395;;;RSP10395;RSP10395;Unknown;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10396;;;;0;PAIRED;RSP10396;;;RSP10396;RSP10396;Unknown;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10417;;;;0;PAIRED;RSP10417;;;RSP10417;RSP10417;Unknown;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10864;;;;0;PAIRED;RSP10864;;;RSP10864;RSP10864;USO 31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10865;;;;0;PAIRED;RSP10865;;;RSP10865;RSP10865;USO 31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10866;;;;0;PAIRED;RSP10866;;;RSP10866;RSP10866;USO 31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10981;;;;0;PAIRED;RSP10981;;;RSP10981;RSP10981;USO 31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10983;;;;0;PAIRED;RSP10983;;;RSP10983;RSP10983;USO 31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10048;;;;0;PAIRED;RSP10048;;;RSP10048;RSP10048;USO31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP10233;;;;0;PAIRED;RSP10233;;;RSP10233;RSP10233;USO31;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;RSP11029;;;;0;PAIRED;RSP11029;;;RSP11029;RSP11029;Young;;;;;;;;GENOMIC;;Cannabis sativa;;;Kannapedia
+;SAMN05509018;;;;0;PAIRED;<not provided>;420;;SRR3996328;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509018;;;;0;PAIRED;<not provided>;212;;SRR3996329;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509018;;;;0;PAIRED;<not provided>;237;;SRR3996330;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509018;;;;0;PAIRED;<not provided>;205;;SRR3996331;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509018;;;;0;PAIRED;<not provided>;238;;SRR3996332;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509018;;;;0;PAIRED;<not provided>;272;;SRR3996333;SRS1598712;GSM2258371;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;665;;SRR3996334;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;339;;SRR3996335;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;375;;SRR3996336;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;324;;SRR3996337;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;374;;SRR3996338;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509017;;;;0;PAIRED;<not provided>;429;;SRR3996339;SRS1598713;GSM2258372;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;525;;SRR3996340;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;265;;SRR3996341;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;330;;SRR3996342;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;312;;SRR3996343;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;357;;SRR3996344;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509016;;;;0;PAIRED;<not provided>;387;;SRR3996345;SRS1598714;GSM2258373;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;253;;SRR3996346;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;335;;SRR3996347;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;377;;SRR3996348;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;322;;SRR3996349;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;378;;SRR3996350;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509015;;;;0;PAIRED;<not provided>;431;;SRR3996351;SRS1598715;GSM2258374;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;279;;SRR3996358;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;264;;SRR3996359;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;318;;SRR3996360;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;276;;SRR3996361;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;320;;SRR3996362;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509013;;;;0;PAIRED;<not provided>;364;;SRR3996363;SRS1598716;GSM2258376;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;402;;SRR3996352;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;216;;SRR3996353;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;231;;SRR3996354;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;210;;SRR3996355;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;238;;SRR3996356;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509014;;;;0;PAIRED;<not provided>;265;;SRR3996357;SRS1598717;GSM2258375;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;330;;SRR3996292;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;172;;SRR3996293;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;211;;SRR3996294;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;205;;SRR3996295;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;225;;SRR3996296;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509024;;;;0;PAIRED;<not provided>;245;;SRR3996297;SRS1598708;GSM2258365;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;397;;SRR3996298;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;202;;SRR3996299;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;230;;SRR3996300;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;203;;SRR3996301;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;231;;SRR3996302;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509023;;;;0;PAIRED;<not provided>;264;;SRR3996303;SRS1598706;GSM2258366;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;424;;SRR3996304;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;234;;SRR3996305;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;246;;SRR3996306;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;222;;SRR3996307;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;247;;SRR3996308;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509022;;;;0;PAIRED;<not provided>;279;;SRR3996309;SRS1598707;GSM2258367;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509021;;;;0;PAIRED;<not provided>;509;;SRR3996310;SRS1598709;GSM2258368;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509021;;;;0;PAIRED;<not provided>;255;;SRR3996311;SRS1598709;GSM2258368;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
+;SAMN05509021;;;;0;PAIRED;<not provided>;286;;SRR3996312;SRS1598709;GSM2258368;;;;public;sra;;;TRANSCRIPTOMIC;;Cannabis sativa;;;SRP080857
